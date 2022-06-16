@@ -1,4 +1,4 @@
-# Simulations on different Caching Strategies
+# Simulations of different Caching Strategies
 
 ## Description:
 We are testing the impact of different caching strategies such as LRU & Cyclic on the Operating System.
